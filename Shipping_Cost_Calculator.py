@@ -1,4 +1,3 @@
-# Here is another update by Realakindave
 # Here is a new update by Realakindave
 
 Shipping_Calculation
